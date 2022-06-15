@@ -4,7 +4,7 @@ The classic FizzBuzz Challenge just for practice.
 
 ## Live Solution
 
-- Link: [Click Here]()
+- Link: [Click Here](https://adansaavedra.github.io/FizzBuzz-Challenge/)
 
 ## Social
 
